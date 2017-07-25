@@ -1,0 +1,2 @@
+# test
+time -p sleep 1

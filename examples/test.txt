@@ -1,0 +1,5 @@
+# hello there...
+# today we are going to do many things
+echo sleeping && sleep 3 && echo done sleeping
+# done with everything
+ping -c3 goo.gl

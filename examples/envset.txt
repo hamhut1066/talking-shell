@@ -1,0 +1,6 @@
+# how to setup your env!
+env | grep PIZZA
+env | grep HOME
+export PIZZA=TRUE
+env | grep PIZZA
+env | grep HOME
